@@ -17,11 +17,11 @@ Oyunda, oyuncu ve bilgisayar sırayla kartları açarak eş kartları bulmaya ç
 - Bilgisayar, hafızasında tuttuğu kartları açarak eş kart bulmaya çalışır.
 - Oyunun başında eş kartlar oyun alanına rasgele olarak dağıtılmaktadır.
 ## Kullanım
-1)Oyunu başlatın ve seviye seçin (Kolay, Orta, Zor).
-2)Oyuncu olarak, tahmin yaparken 1. kartın satır ve sütununu, sonrasında 2. kartın satır ve sütununu girdi olarak verin.
-3)Bilgisayarın yaptığı tahminler her turda ekrana yazdırılacaktır.
-4)Tüm kartlar açılmadan kazanan taraf belirtilir ve oyun sonlandırılır.
+- 1)Oyunu başlatın ve seviye seçin (Kolay, Orta, Zor).
+- 2)Oyuncu olarak, tahmin yaparken 1. kartın satır ve sütununu, sonrasında 2. kartın satır ve sütununu girdi olarak verin.
+- 3)Bilgisayarın yaptığı tahminler her turda ekrana yazdırılacaktır.
+- 4)Tüm kartlar açılmadan kazanan taraf belirtilir ve oyun sonlandırılır.
 
 ## Gereksinimler
--C programlama dili ile uyumlu bir derleyici (örn. GCC) Temel bilgisayar bilgisi ve terminal/komut satırı kullanımı
--DEV-C++ 5.11 derleyecisi kullanılabilir.
+- C programlama dili ile uyumlu bir derleyici (örn. GCC) Temel bilgisayar bilgisi ve terminal/komut satırı kullanımı
+- DEV-C++ 5.11 derleyecisi kullanılabilir.
