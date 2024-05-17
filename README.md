@@ -24,11 +24,11 @@ Oyunda, oyuncu ve bilgisayar sırayla kartları açarak eş kartları bulmaya ç
 
 ## Örnek Çıktılar
 Kolay seviye için oyun alanı:
-1 2 3 4
-1 1 6 6 5
-2 5 3 3 1
-3 4 2 7 2
-4 8 8 7 4
+1 2 3 4\n
+1 1 6 6 5\n
+2 5 3 3 1\n
+3 4 2 7 2\n
+4 8 8 7 4\n
 ## Gereksinimler
 C programlama dili ile uyumlu bir derleyici (örn. GCC)
 Temel bilgisayar bilgisi ve terminal/komut satırı kullanımı
