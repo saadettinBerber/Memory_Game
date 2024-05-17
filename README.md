@@ -23,5 +23,5 @@ Oyunda, oyuncu ve bilgisayar sırayla kartları açarak eş kartları bulmaya ç
 4)Tüm kartlar açılmadan kazanan taraf belirtilir ve oyun sonlandırılır.
 
 ## Gereksinimler
-C programlama dili ile uyumlu bir derleyici (örn. GCC)
-Temel bilgisayar bilgisi ve terminal/komut satırı kullanımı
+-C programlama dili ile uyumlu bir derleyici (örn. GCC) Temel bilgisayar bilgisi ve terminal/komut satırı kullanımı
+-DEV-C++ 5.11 derleyecisi kullanılabilir.
